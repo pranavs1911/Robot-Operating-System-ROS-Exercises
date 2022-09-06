@@ -1,3 +1,10 @@
+"""
+Assignments from ROS for Beginners:
+Author: Anis Koubaa
+Modifications: Pranav.S (spranav1911@gmail.com)
+Date of modification: 05-06-2022
+
+"""
 #!/usr/bin/env python
 
 import rospy
